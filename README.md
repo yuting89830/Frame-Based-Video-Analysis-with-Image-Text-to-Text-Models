@@ -36,4 +36,4 @@ python remove_simple_answer.py
 ```
 ## Note
 
-You are welcome to modify the prompts and video files to suit your specific needs. Adjusting the prompts or using different video files will allow you to tailor the analysis for various traffic scenarios or other use cases.
+Feel free to modify the prompts and video files to suit your specific needs. The flexibility of this project allows for customization to fit various use cases and preferences.
